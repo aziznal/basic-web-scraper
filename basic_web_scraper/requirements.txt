@@ -2,7 +2,7 @@ autopep8==1.5.4
 beautifulsoup4==4.9.1
 bs4==0.0.1
 coverage==5.2.1
-lxml==4.6.2
+lxml==4.6.3
 pycodestyle==2.6.0
 selenium==3.141.0
 soupsieve==2.0.1
