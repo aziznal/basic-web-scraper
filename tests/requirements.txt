@@ -2,7 +2,7 @@ basic-web-scraper==0.12.0a3
 beautifulsoup4==4.9.3
 bs4==0.0.1
 coverage==5.3
-lxml==4.6.2
+lxml==4.6.3
 selenium==3.141.0
 soupsieve==2.0.1
 urllib3==1.25.11
